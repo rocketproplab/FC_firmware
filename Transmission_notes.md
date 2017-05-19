@@ -8,7 +8,7 @@ Transmission Notes
     +   Tentative: 32 bits per sensor, 64 sensor capacity
         -   Assumes 12 bits per reading
         -   16 bits for timestamp
-	-   4 bits buffer 
+        -   4 bits buffer 
     +   Without buffer: 28 bits per sensor, 72 sensor capacity
         -   12 bits per reading
         -   16 bits for timestamp
