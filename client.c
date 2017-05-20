@@ -47,7 +47,7 @@ int main(int argc, char *argv[])
     //strcpy("I Like MEMES", buffer);
 
     while(1){
-        char textbuf[256] = "GET TO WORK JESSE\n";
+        char textbuf[256] = "OROCHI\n";
         //printf("Please enter the message: ");
         //bzero(buffer,256);
     
